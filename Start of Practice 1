@@ -1,0 +1,17 @@
+use_synth :dark_ambience
+play 70, amp: 01
+sleep 1
+play 69, amp: 01
+sleep 1
+play 68, amp: 01
+sleep 1
+play 67, amp: 0.8
+sleep 0.5
+
+
+use_synth :dark_ambience
+play 65, amp: 02
+sleep 0.5
+play 63, amp: 02
+sleep 0.5
+play 62, amp: 02
